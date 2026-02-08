@@ -1,0 +1,14 @@
+# Node.js
+node_modules/
+dist/
+build/
+
+# Next.js
+.next/
+out/
+# Optional npm cache directory
+.npm
+
+# Logs
+logs/
+npm-debug.log*
